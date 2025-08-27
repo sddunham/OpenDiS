@@ -1,0 +1,5 @@
+set( Kokkos_ENABLE_CUDA On )
+set( Kokkos_ENABLE_CUDA_LAMBDA On )
+
+set( FFTW_LIB_DIR "/home/sddunham/opt/fftw3/lib/" )
+set( FFTW_INC_DIR "/home/sddunham/opt/fftw3/include" )
